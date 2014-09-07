@@ -7,6 +7,6 @@ Proyecto: Mercazona.
 
 
 
-file:///home/zerobit/Documentos/UNIVERSIDAD/TERCERO/USABILIDAD/proyecto/copia7sep2014/proyecto/index.html
+http://banot.etsii.ull.es/alu4457/usabilidad/proyecto/
 
 Tegnologías utilizadas: html, css, php, javascript, ajax, wai-aria,Responsive Design, jQuery.
